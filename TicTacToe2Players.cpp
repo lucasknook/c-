@@ -145,7 +145,7 @@ int main() {
 	}
 	else if(winner == 't'){
 		cout << endl;
-		cout << "It's a tie! Both of you won!";
+		cout << "It's a tie! Both of you win!";
 		getch();
 	}
 	else {
